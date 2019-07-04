@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0218baeb-a73c-4189-b5fa-dd665f164760" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Hackathon/src/com/stackroute/Pub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise4/src/main/java/com/stackroute/CharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise4/src/main/java/com/stackroute/MultipleOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise4/src/main/java/com/stackroute/RegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise4/src/main/java/com/stackroute/ReplaceChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise4/src/main/java/com/stackroute/SortParagraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise4/src/main/java/com/stackroute/TransposeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise4/src/main/test/com/stackroute/CharacterCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise4/src/main/test/com/stackroute/MultipleOccurenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise4/src/main/test/com/stackroute/RegularExpressionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise4/src/main/test/com/stackroute/ReplaceCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise4/src/main/test/com/stackroute/SortParagraphTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExercise4/src/main/test/com/stackroute/TransposeWordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/CountWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/MapElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/RepeatChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/SortNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/StudentSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/StudentSorter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/CountWordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/MapElementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/RepeatCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/ReplaceElementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/SortNamesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/StudentTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/SortNames.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#206#221#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/CountWordsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1053">
+              <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/MapElementTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/RepeatCharTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="749">
+              <caret line="65" column="31" lean-forward="true" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/ReplaceElementTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8">
+              <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/SortNamesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/StudentTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/RepeatChar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>studentSorter</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>obj1</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceElement.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/ReplaceElementTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/CountWords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/RepeatChar.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/RepeatCharTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/StudentInformationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/StudentInformation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/StudentSorter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/StudentSorter1.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/StudentTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/MapElement.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/MapElementTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/SortNames.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/SortNamesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/CountWordsTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="133" />
+    <option name="y" value="47" />
+    <option name="width" value="748" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExercise5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CountWordsTest.testCheckSpecialCharacters">
+    <configuration name="CountWordsTest.testCheckSpecialCharacters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaExercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.CountWordsTest" />
+      <option name="METHOD_NAME" value="testCheckSpecialCharacters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortNamesTest.testGivenNamesReturnAscendingOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaExercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.SortNamesTest" />
+      <option name="METHOD_NAME" value="testGivenNamesReturnAscendingOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortNamesTest.testGivenNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaExercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.SortNamesTest" />
+      <option name="METHOD_NAME" value="testGivenNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortNamesTest.testGivenNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaExercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.SortNamesTest" />
+      <option name="METHOD_NAME" value="testGivenNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortNamesTest.testGivenSpecialCharacters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaExercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.SortNamesTest" />
+      <option name="METHOD_NAME" value="testGivenSpecialCharacters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CountWordsTest.testCheckSpecialCharacters" />
+        <item itemvalue="JUnit.SortNamesTest.testGivenSpecialCharacters" />
+        <item itemvalue="JUnit.SortNamesTest.testGivenNumbers" />
+        <item itemvalue="JUnit.SortNamesTest.testGivenNull" />
+        <item itemvalue="JUnit.SortNamesTest.testGivenNamesReturnAscendingOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0218baeb-a73c-4189-b5fa-dd665f164760" name="Default Changelist" comment="" />
+      <created>1562214900830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562214900830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SortNamesTest_testGivenNamesReturnAscendingOrder - 2019.07.04 at 15h 31m 29s.xml">
+      <configuration name="SortNamesTest.testGivenNamesReturnAscendingOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortNamesTest_testGivenNull - 2019.07.04 at 15h 32m 45s.xml">
+      <configuration name="SortNamesTest.testGivenNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortNamesTest_testGivenNull - 2019.07.04 at 15h 36m 09s.xml">
+      <configuration name="SortNamesTest.testGivenNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortNamesTest_testGivenNumbers - 2019.07.04 at 16h 18m 22s.xml">
+      <configuration name="SortNamesTest.testGivenNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortNamesTest_testGivenNumbers - 2019.07.04 at 16h 18m 59s.xml">
+      <configuration name="SortNamesTest.testGivenNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortNamesTest_testGivenNumbers - 2019.07.04 at 16h 19m 29s.xml">
+      <configuration name="SortNamesTest.testGivenNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortNamesTest_testGivenSpecialCharacters - 2019.07.04 at 16h 20m 46s.xml">
+      <configuration name="SortNamesTest.testGivenSpecialCharacters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortNamesTest_testGivenSpecialCharacters - 2019.07.04 at 16h 21m 05s.xml">
+      <configuration name="SortNamesTest.testGivenSpecialCharacters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CountWordsTest_testCheckSpecialCharacters - 2019.07.04 at 16h 35m 29s.xml">
+      <configuration name="CountWordsTest.testCheckSpecialCharacters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CountWordsTest_testCheckSpecialCharacters - 2019.07.04 at 16h 37m 34s.xml">
+      <configuration name="CountWordsTest.testCheckSpecialCharacters" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/StudentInformationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/StudentInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/StudentSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/StudentSorter1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/CountWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/MapElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/RepeatChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/ReplaceElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/SortNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#206#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/CountWordsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/MapElementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/RepeatCharTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="65" column="31" lean-forward="true" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/ReplaceElementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/SortNamesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
