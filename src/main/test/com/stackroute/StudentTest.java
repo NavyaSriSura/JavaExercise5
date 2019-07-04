@@ -41,7 +41,6 @@ Student student;
 
         actual = student.check();
         Assert.assertEquals(Expected.toString(), actual.toString());
-
         assertNotNull(student);
 
     }
